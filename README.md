@@ -1,11 +1,11 @@
 ### Exchange app
 
-[Open api spec]()
+[Open api spec](https://github.com/fedran/exchange/blob/master/src/main/resources/openapi.yaml)
 
 #### How to run project
 
 Clone repo:
-`git clone <url>`
+`git clone git@github.com:fedran/exchange.git`
 
 Enter to project directory:
 `cd ./exchange`
